@@ -9,20 +9,6 @@
 ---
 
 
-- Latest Bitcoin Addresses __(Any Type)__
-- Latest Rich Bitcoin Address Type : **P2PKH** (Start with 1)
-- Latest Rich Bitcoin Address Type : **P2SH** (Start with 3)
-- Latest Rich Bitcoin Address Type : **BECH32** (Start with bc1)
-- Latest Rich Bitcoin (Type : **P2PKH** & **P2SH** & **BECH32**)
-- Latest Litecoin Addresses Type : **All**
-- Latest Rich Litecoin Addresses Type : **Minimum `0.1 LTC`**
-- Latest Dogecoin Addresses Type : **All**
-- Latest Rich Dogecoin Addresses Type : **Minimum `0.1 DOGE`**
-- Latest DASH Addresses Type : **All**
-- Latest Rich DASH Addresses Type : **Minimum `0.1 DASH`**
-- Latest Bitcoin Cash Addresses Type : **All**
-- Latest Rich Bitcoin Cash Addresses Type : **Minimum `0.1 BCH`**
-
 >[!NOTE]
 > Auto Update Every 24 hours.
 
@@ -33,10 +19,10 @@ All files are received with high accuracy from active nodes in parallel, and som
 
 | File Name                                                                             | File Type |                                                                              |
 |------------------------------------------------------------------------------------------------|-----------|------------------------------------------------------------------------------|
-| :open_file_folder: Latest Bitcoin Addresses (Any Type)                     | :pencil2: `.tsv.gz` | :link: [Download](https://github.com/Pymmdrza/Rich-Address-Wallet/releases/tag/Bitcoin) |
+| :open_file_folder: Latest Bitcoin Addresses (Any Type)                     | :pencil2: `.tsv.gz` | :link: [Download](https://github.com/kimbaobao/bitcoin-list/releases/tag/Bitcoin) |
 | :open_file_folder: Rich Bitcoin Address Type : **P2PKH** (Start with 1)    | :pencil2: `.txt.gz` | :link: [Download](https://github.com/kimbaobao/bitcoin-list/releases/tag/Bitcoin) |
-| :open_file_folder: Rich Bitcoin Address Type : **P2SH** (Start with 3)     | :pencil2: `.txt.gz` | :link: [Download](https://github.com/Pymmdrza/Rich-Address-Wallet/releases/tag/Bitcoin) |
-| :open_file_folder: Rich Bitcoin Address Type : **BECH32** (Start with bc1) | :pencil2: `.txt.gz` | :link: [Download](https://github.com/Pymmdrza/Rich-Address-Wallet/releases/tag/Bitcoin) |
+| :open_file_folder: Rich Bitcoin Address Type : **P2SH** (Start with 3)     | :pencil2: `.txt.gz` | :link: [Download](https://github.com/kimbaobao/bitcoin-listreleases/tag/Bitcoin) |
+| :open_file_folder: Rich Bitcoin Address Type : **BECH32** (Start with bc1) | :pencil2: `.txt.gz` | :link: [Download](https://github.com/kimbaobao/bitcoin-list/releases/tag/Bitcoin) |
 | :open_file_folder: Rich Bitcoin (Type : **P2PKH** & **P2SH** & **BECH32**) | :pencil2: `.txt.gz` | :link: [Download](https://github.com/kimbaobao/bitcoin-list/releases/tag/Bitcoin) |
 
 
