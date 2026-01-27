@@ -1,7 +1,4 @@
 
-
-![Rich Address Wallet](https://raw.githubusercontent.com/kimbaobao/bitcoin-list/refs/heads/main/.github/RICH_ADDRESS_WALLET_v2.png)
-
 ## Update Every 24 hours
 
 ![Bitcoin Diagram Rich Section](https://raw.githubusercontent.com/kimbaobao/bitcoin-list/refs/heads/main/.github/rich-address-wallet-diagram.svg)
