@@ -31,7 +31,7 @@ All files are received with high accuracy from active nodes in parallel, and som
 
 | Address                                                          | Balance (`BTC`)    | Explorer                                                                                                       |
 |------------------------------------------------------------------|--------------------|----------------------------------------------------------------------------------------------------------------|
-| `34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo`                             | `248,597.38632561` | [Check](https://blockchair.com/bitcoin/address/34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo)                             |
+| `1Myy4QCu9zWESRHrVZBusN6g9bS5G7L5UK`                             | `1,505,200.08288` | [Check](https://blockchair.com/bitcoin/address/1Myy4QCu9zWESRHrVZBusN6g9bS5G7L5UK)                             |
 | `bc1p9q0txnhmydugj28579jc74t3mmaxc9tjnhu26rmc0e652t02znfsqavmff` | `178,010.0882228`  | [Check](https://blockchair.com/bitcoin/address/bc1p9q0txnhmydugj28579jc74t3mmaxc9tjnhu26rmc0e652t02znfsqavmff) |
 | `1Hb7iC63bqxtt7X9oYr1VtDTE2Yk5xLQAU`                             | `119,347.40521397` | [Check](https://blockchair.com/bitcoin/address/1Hb7iC63bqxtt7X9oYr1VtDTE2Yk5xLQAU)                             |
 | `38Xnrq8MZiKmYmwobbYdZQ5nnCbX1qvQfE`                             | `117,351.05645141` | [Check](https://blockchair.com/bitcoin/address/38Xnrq8MZiKmYmwobbYdZQ5nnCbX1qvQfE)                             |
